@@ -1,2 +1,2 @@
 # Lordwin_Projects
-To find the Factors of a number using java
+Multiple simple Java Programs will be uploaded
