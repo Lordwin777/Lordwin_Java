@@ -1,0 +1,8 @@
+How would you design a basic inventory management system in Java using object-oriented programming principles? The system should allow users to perform the following actions:
+
+Add a new product to the inventory with its name and quantity.
+Update the quantity of an existing product in the inventory.
+Delete a product from the inventory.
+Search for a product by its name and display its quantity.
+Generate a report listing all products in the inventory with their respective quantities.
+You should implement classes Product and Inventory, where Product represents a product with a name and quantity, and Inventory manages a collection of products. Additionally, create a main class InventoryManagement to interact with users through a console-based menu, allowing them to perform the above actions.
